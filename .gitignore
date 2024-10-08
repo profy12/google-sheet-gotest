@@ -25,3 +25,4 @@ go.work.sum
 .env
 credentials.json
 token.json
+service-account-key.json
